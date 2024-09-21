@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="初回コミット">
+    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題28の提出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +40,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -65,15 +67,12 @@
     &quot;assignee&quot;: &quot;sakai-mamoru&quot;
   }
 }</component>
-  <component name="GithubPullRequestsUISettings">{
-  &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sakaimamoru/kadai20&quot;,
-    &quot;accountId&quot;: &quot;48e93443-530d-4acd-8d5a-9eae204decb7&quot;
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sakaimamoru/kadai20.git",
+    "accountId": "48e93443-530d-4acd-8d5a-9eae204decb7"
   }
-}</component>
-  <component name="PerforceDirect.Settings">
-    <option name="CHARSET" value="none" />
-  </component>
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -88,12 +87,16 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
     &quot;Gradle.studentmanagemet [:Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.studentmanagemet2 [:Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.studentmanagemet3 [:Application.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.studentmanagemet4 [:Application.main()].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;kadai23&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;feature/kadai24&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kabad/IdeaProjects/studentmanagemet&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/kabad/IdeaProjects/studentmanagemet4&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
@@ -118,7 +121,7 @@
       <module name="student.management.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="raisetech.student.management.*" />
+          <option name="PATTERN" value="raisetech.student.management.repository.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,17 +142,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="アプリケーション.Application" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -419,7 +416,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726669323832</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="課題28の提出">
+      <option name="closed" value="true" />
+      <created>1727659367856</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1727659367856</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -440,6 +445,12 @@
     <MESSAGE value="課題20用コミット-2" />
     <MESSAGE value="実験コミット" />
     <MESSAGE value="初回コミット" />
-    <option name="LAST_COMMIT_MESSAGE" value="初回コミット" />
+    <MESSAGE value="スネークケース→キャメルケース" />
+    <MESSAGE value="課題23を追加" />
+    <MESSAGE value="スネークケース→キャメルケース修正" />
+    <MESSAGE value="課題25の提出" />
+    <MESSAGE value="課題24の提出" />
+    <MESSAGE value="課題28の提出" />
+    <option name="LAST_COMMIT_MESSAGE" value="課題28の提出" />
   </component>
 </project>
