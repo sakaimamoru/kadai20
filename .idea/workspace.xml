@@ -37,8 +37,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Class" />
         <option value="Interface" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -67,8 +67,8 @@
 }</component>
   <component name="GithubPullRequestsUISettings">{
   &quot;selectedUrlAndAccountId&quot;: {
-    &quot;url&quot;: &quot;https://github.com/sakaimamoru/StudentManagement&quot;,
-    &quot;accountId&quot;: &quot;47cd8439-8dd5-41f7-9780-3a3c34dcf6d5&quot;
+    &quot;url&quot;: &quot;https://github.com/sakaimamoru/kadai20&quot;,
+    &quot;accountId&quot;: &quot;48e93443-530d-4acd-8d5a-9eae204decb7&quot;
   }
 }</component>
   <component name="PerforceDirect.Settings">
@@ -91,13 +91,13 @@
     &quot;Gradle.studentmanagemet [:Application.main()].executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;kadai23&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/Users/kabad/IdeaProjects/studentmanagemet&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;Template Data Languages&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   },
   &quot;keyToStringList&quot;: {
     &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
@@ -112,7 +112,7 @@
       <recent name="C:\Users\kabad\IdeaProjects\studentmanagemet\src" />
     </key>
   </component>
-  <component name="RunManager" selected="アプリケーション.Application">
+  <component name="RunManager">
     <configuration name="Application" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="raisetech.student.management.Application" />
       <module name="student.management.main" />
@@ -150,11 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="アプリケーション.Application" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="アプリケーションレベル" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
@@ -408,7 +403,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726542979645</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726543643875</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1726543643875</updated>
+    </task>
+    <task id="LOCAL-00032" summary="初回コミット">
+      <option name="closed" value="true" />
+      <created>1726669323832</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1726669323832</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
