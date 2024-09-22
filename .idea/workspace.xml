@@ -4,14 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="スネークケース→キャメルケース修正">
-      <change afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/controller/StudentController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/service/StudentService.java" afterDir="false" />
+    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題24の提出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Application.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Application.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/StudentCourses.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/StudentsCourses.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/StudentRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/repository/StudentRepository.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,28 +85,28 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Gradle.studentmanagemet [:Application.main()].executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;feature/kadai23&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/kabad/IdeaProjects/studentmanagemet&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Problems&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Gradle.studentmanagemet [:Application.main()].executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "feature/kadai24",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/kabad/IdeaProjects/studentmanagemet",
+    "project.structure.last.edited": "Problems",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;GitStage.ChangesTree.GroupingKeys&quot;: [
-      &quot;directory&quot;,
-      &quot;module&quot;,
-      &quot;repository&quot;
+  "keyToStringList": {
+    "GitStage.ChangesTree.GroupingKeys": [
+      "directory",
+      "module",
+      "repository"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\kabad\IdeaProjects\studentmanagemet\src" />
@@ -425,7 +419,23 @@
       <option name="project" value="LOCAL" />
       <updated>1726669323832</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="課題24の提出">
+      <option name="closed" value="true" />
+      <created>1726934834253</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1726934834253</updated>
+    </task>
+    <task id="LOCAL-00034" summary="課題24の提出">
+      <option name="closed" value="true" />
+      <created>1726934878835</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1726934878835</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
