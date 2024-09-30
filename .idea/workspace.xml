@@ -4,8 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="663bb7ac-6919-487a-b54b-2141d916af12" name="変更" comment="課題24の提出">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/controller/StudentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/controller/StudentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/data/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/raisetech/student/management/service/StudentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/raisetech/student/management/service/StudentService.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -39,6 +42,7 @@
       <list>
         <option value="Interface" />
         <option value="Class" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -88,12 +92,10 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Gradle.studentmanagemet [:Application.main()].executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "git-widget-placeholder": "feature/kadai24",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kabad/IdeaProjects/studentmanagemet",
     "project.structure.last.edited": "Problems",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
@@ -135,17 +137,6 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="JetRunConfigurationType">
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
-      <option name="filePath" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -459,6 +450,5 @@
     <MESSAGE value="スネークケース→キャメルケース" />
     <MESSAGE value="課題23を追加" />
     <MESSAGE value="スネークケース→キャメルケース修正" />
-    <option name="LAST_COMMIT_MESSAGE" value="スネークケース→キャメルケース修正" />
   </component>
 </project>
