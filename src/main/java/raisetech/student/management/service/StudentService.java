@@ -11,7 +11,6 @@ import java.util.List;
 @Service
 public class StudentService {
 
-    private final StudentRepository repository;
 
     @Autowired
     public StudentService(StudentRepository repository) {
@@ -19,20 +18,5 @@ public class StudentService {
     }
 
     public List<Student> searchStudentList() {
-        return repository.search();
-    }
-
-    public List<StudentsCourses> searchStudentsCourse() {
-        return repository.searchStudentsCourses();
-
-    }
-
-
-    public void insertStudents(Student student) {
-        repository.insertStudents(student);
-    }
-
-    public void insertCourse(StudentsCourses studentsCourses) {
-       repository.insertCourse(studentsCourses);
     }
 }

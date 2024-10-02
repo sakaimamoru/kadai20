@@ -11,8 +11,6 @@ import java.util.stream.Collectors;
 
 @Component
 public class StudentConverter {
-
-
     public static List<StudentDetail> convertStudentDetails(List<Student> students, List<StudentsCourses> studentsCourses) {
         List<StudentDetail> studentDetails = new ArrayList<>();
         students.forEach(student -> {
@@ -20,7 +18,6 @@ public class StudentConverter {
             studentDetail.setStudent(student);
 
             List<StudentsCourses> convertStudentCourses = studentsCourses.stream()
-                    .filter(studentsCourse -> student.getId() == studentsCourse.getStudent_id())
                     .collect(Collectors.toList());
 
             studentDetail.setStudentsCourses(convertStudentCourses);
