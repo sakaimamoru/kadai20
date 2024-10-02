@@ -10,9 +10,3 @@ import java.util.List;
 @Getter
 @Setter
 
-public class StudentDetail {
-
-    private Student student;
-    private List<StudentsCourses> studentsCourses;
-
-}
