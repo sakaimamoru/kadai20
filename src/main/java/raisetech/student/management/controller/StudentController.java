@@ -13,5 +13,3 @@ import java.util.List;
     public List<StudentsCourses> getStudentsCourse() {
         return service.searchStudentsCourse();
     }
-}
-

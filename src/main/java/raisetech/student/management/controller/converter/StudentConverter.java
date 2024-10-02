@@ -11,7 +11,6 @@ import java.util.stream.Collectors;
 
 @Component
 public class StudentConverter {
-
     public static List<StudentDetail> convertStudentDetails(List<Student> students, List<StudentsCourses> studentsCourses) {
         List<StudentDetail> studentDetails = new ArrayList<>();
         students.forEach(student -> {
