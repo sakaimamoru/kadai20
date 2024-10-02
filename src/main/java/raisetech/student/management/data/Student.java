@@ -14,8 +14,5 @@ public class Student {
     private String address;
     private int age;
     private String gender;
-    //25課題追加テーブル
-    private String remark;//備考欄
-    private boolean isDeleted;//論理削除
 
 }
